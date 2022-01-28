@@ -22,4 +22,9 @@ cp2102:
 TX--PA3
 RX--PA2
 
+Cach chay app:
+Mo terminal, go "sudo ./uart",
+doc toc do trong cac file motorx.txt
+ghi toc do can chay vao file SpeedToRun.txt
+
 
